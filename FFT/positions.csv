@@ -1,0 +1,16 @@
+Protein,Positions,Label
+GFP,[127 168 172 174 158 143 197  63  20 207 206  45 231],Empirical sites
+GFP,[102 103 104 105 106 107 108 109 110 111],Secondary structures
+GFP,[ 1  2  3  4  5  6 73 74 75 76],Random coils
+GFP,[ 42 203 212  31  12 117 106 178  90 101],Secondary structures
+GFP,[ 52   8 207 126 130  97 128 167 224 221],Random coils
+TP53,[248 273 175 245 282 249 220 179 213 176],Empirical sites
+TP53,[279 280 281 282 283 284 285 286 287 288],Secondary structures
+TP53,[238 239 240 241 242 243 244 245 246 247],Random coils
+TP53,[337 167 267 141 232 156 224 207 253 270],Secondary structures
+TP53,[ 99 261 106 147 228 113 175 244 100 165],Random coils
+GB1,[41 39 31 43 27 30 54 38 23 33],Empirical sites
+GB1,[23 24 25 26 27 28 29 30 31 32],Secondary structures
+GB1,[37 38 39 40 41 20 21 48 49 50],Random coils
+GB1,[ 2 18 14  7 54 43 18 33 36 22],Secondary structures
+GB1,[12 15  6 47 40  9 37 50 21 38],Random coils
