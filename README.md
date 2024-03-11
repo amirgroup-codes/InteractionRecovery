@@ -2,7 +2,7 @@
 
 This repository contains code for the paper:
 
-*"On Recovering Higher-order Interactions from Protein Language Models", Darin Tsui, Amirali Aghazadeh*
+*"On Recovering Higher-order Interactions from Protein Language Models"*, Darin Tsui, Amirali Aghazadeh
 
 ## Description of folders
 
