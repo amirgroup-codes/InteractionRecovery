@@ -12,3 +12,27 @@ This repository contains code for the paper:
 
 **qsft/:** Functions needed to run q-sft.
 
+## Quick Start
+
+### Generate all necessary files
+```console
+cd ESM/
+mkdir model/
+cd scripts/
+sh 0_setup.sh
+```
+
+### Run q-sft 
+```console
+cd ESM/scripts/
+sh 1_helper.sh
+```
+
+### Run Walsh-Hadamard Analysis 
+```console
+cd FFT/
+python 1_sampling.py
+```
+
+Visualize reuslts using `2_analysis.ipynb`.
+
