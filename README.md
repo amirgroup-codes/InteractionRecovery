@@ -4,6 +4,8 @@ This repository contains code for the paper:
 
 *"On Recovering Higher-order Interactions from Protein Language Models"*, Darin Tsui, Amirali Aghazadeh
 
+**Paper: [https://openreview.net/forum?id=WfA5oWpYT4](https://openreview.net/forum?id=WfA5oWpYT4)**
+
 ## Description of folders
 
 **ESM/:** Code needed to run q-sft for ESM. More information has been left in the folder.
